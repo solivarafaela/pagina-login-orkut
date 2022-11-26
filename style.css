@@ -6,7 +6,7 @@
 
 img {
     width: 210px;
-    margin: 25px;
+    margin: 20px;
     margin-bottom: 14px;
 }
 
@@ -82,7 +82,7 @@ p {
 .entrada {
     display: flex;
     flex-direction: column;
-    height: 145px;
+    height: 150px;
     padding-bottom: 5px;
     align-items: center;
     justify-content: first baseline;
